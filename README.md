@@ -32,7 +32,7 @@ Practica 2: Grabar la voz del usuario y convertirla a texto.
 [Practica_2.pdf](https://github.com/user-attachments/files/17694434/Practica_2.pdf)
 
 Practica 3: Creación de la interfaz de la aplicación con Flask.
-[Practica_3.pdf](https://github.com/user-attachments/files/17694407/Practica_3.pdf)
+[Practica_3.pdf](https://github.com/user-attachments/files/17694858/Practica_3.pdf)
 
 Practica 4: Conversar con un modelo de lenguaje usando el texto reconocido.
 [Practica_4.pdf](https://github.com/user-attachments/files/17694417/Practica_4.pdf)
