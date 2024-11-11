@@ -22,3 +22,34 @@ Este taller está dirigido a personas interesadas en el desarrollo de aplicacion
 - Micrófono integrado en la PC para pruebas de grabación y reconocimiento de voz.
 
 Este repositorio contiene el código y recursos para el Taller de asitente virtual de la Universidad Veracruzana.
+
+### Recursos
+
+Practica 1: Instalación del ambiente de desarrollo.
+[Practica_1.pdf](https://github.com/user-attachments/files/17694393/Practica_1.pdf)
+
+Practica 2: Grabar la voz del usuario y convertirla a texto.
+[Practica_2.pdf](https://github.com/user-attachments/files/17694434/Practica_2.pdf)
+
+Practica 3: Creación de la interfaz de la aplicación con Flask.
+[Practica_3.pdf](https://github.com/user-attachments/files/17694407/Practica_3.pdf)
+
+Practica 4: Conversar con un modelo de lenguaje usando el texto reconocido.
+[Practica_4.pdf](https://github.com/user-attachments/files/17694417/Practica_4.pdf)
+
+Practica 5: Convertir la respuesta de texto a voz con un modelo simple mexicana.
+<!-- [Practica_5.pdf](https://github.com/user-attachments/files/17694432/Practica_5.pdf) -->
+
+Practica 6: Convertir la respuesta de texto a voz con un modelo de voz natural.
+<!-- [Practica_6.pdf](https://github.com/user-attachments/files/17694433/Practica_6.pdf) -->
+
+Practica 7: Pedirle al asistente que nos de la temperatura en tiempo real.
+<!-- [Practica_7.pdf](https://github.com/user-attachments/files/17694442/Practica_7.pdf) -->
+
+Practica 8: Pedirle al asistente que abra una página web por nosotros.
+<!-- [Practica_8.pdf](https://github.com/user-attachments/files/17694450/Practica_8.pdf) -->
+
+Practica 9: Pedirle al asistente que prende las luces por nosotros.
+<!-- [Practica_9.pdf](https://github.com/user-attachments/files/17694453/Practica_9.pdf) -->
+
+
