@@ -54,10 +54,10 @@ Practica 9: Pedirle al asistente que prende las luces por nosotros.
 
 ### Presentaciones
 
-Introducción a la Inteligencia Artificial Generativa
+Introducción a la Inteligencia Artificial Generativa.
 [01-Taller-Asistente-virtual.pdf](https://github.com/user-attachments/files/17722766/01-Taller-Asistente-virtual.pdf)
 
-Caso de estudio: Construcción de un Asistente Virtual Inteligente
+Caso de estudio: Construcción de un Asistente Virtual Inteligente.
 [02-Taller-Asistente-virtual.pdf](https://github.com/user-attachments/files/17722767/02-Taller-Asistente-virtual.pdf)
 
 ### Evaluación del taller
