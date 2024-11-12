@@ -35,7 +35,7 @@ Practica 3: Creación de la interfaz de la aplicación con Flask.
 [Practica_3.pdf](https://github.com/user-attachments/files/17710865/Practica_3.pdf)
 
 Practica 4: Conversar con un modelo de lenguaje usando el texto reconocido.
-[Practica_4.pdf](https://github.com/user-attachments/files/17694417/Practica_4.pdf)
+[Practica_4.pdf](https://github.com/user-attachments/files/17710896/Practica_4.pdf)
 
 Practica 5: Convertir la respuesta de texto a voz con un modelo simple mexicana.
 <!-- [Practica_5.pdf](https://github.com/user-attachments/files/17694432/Practica_5.pdf) -->
