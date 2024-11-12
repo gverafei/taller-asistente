@@ -66,6 +66,6 @@ Para obtener tu constancia de asistencia, por favor, contesta le encuesta de eva
 
 [Encuesta de evaluación](https://docs.google.com/forms/d/e/1FAIpQLSdjTu60luKCVGmNqLFO3F5i_L68XcqHyJZYK2KzennZa3ob9A/viewform)
 
-Tu constancia se enviará la siguiente semana al correo que proporcionaste en tu registro. Por favor, verifica que tu nombre este correcto en la hoja de asistencia y que hayas recibido el correo de asignación de aula de taller, pues a ese correo se enviará tu constancia.
+Tu constancia se enviará la siguiente semana al correo que proporcionaste en tu registro. Por favor, verifica que tu nombre este correcto en la hoja de asistencia y que hayas recibido el correo de asignación de aula de taller en días pasados, pues a ese correo se enviará tu constancia.
 
 
