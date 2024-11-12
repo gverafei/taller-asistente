@@ -60,3 +60,10 @@ Introducción a la Inteligencia Artificial Generativa
 Caso de estudio: Construcción de un Asistente Virtual Inteligente
 [02-Taller-Asistente-virtual.pdf](https://github.com/user-attachments/files/17722767/02-Taller-Asistente-virtual.pdf)
 
+### Evaluación del taller
+
+Para obtener tu constancia de asistencia, por favor, contesta le encuesta de evaluación: 
+
+[Encuesta de evaluación](https://docs.google.com/forms/d/e/1FAIpQLSdjTu60luKCVGmNqLFO3F5i_L68XcqHyJZYK2KzennZa3ob9A/viewform)
+
+
