@@ -38,13 +38,25 @@ Practica 4: Conversar con un modelo de lenguaje usando el texto reconocido.
 [Practica_4.pdf](https://github.com/user-attachments/files/17710896/Practica_4.pdf)
 
 Practica 5: Convertir la respuesta de texto a voz con un modelo simple mexicana.
+[Practica_5.pdf](https://github.com/user-attachments/files/17722771/Practica_5.pdf)
 
 Practica 6: Convertir la respuesta de texto a voz con un modelo de voz natural.
+[Practica_6.pdf](https://github.com/user-attachments/files/17722772/Practica_6.pdf)
 
 Practica 7: Pedirle al asistente que nos de la temperatura en tiempo real.
+[Practica_7.pdf](https://github.com/user-attachments/files/17722773/Practica_7.pdf)
 
 Practica 8: Pedirle al asistente que abra una página web por nosotros.
+[Practica_8.pdf](https://github.com/user-attachments/files/17722774/Practica_8.pdf)
 
 Practica 9: Pedirle al asistente que prende las luces por nosotros.
+[Practica_9.pdf](https://github.com/user-attachments/files/17722775/Practica_9.pdf)
 
+### Presentaciones
+
+Introducción a la Inteligencia Artificial Generativa
+[01-Taller-Asistente-virtual.pdf](https://github.com/user-attachments/files/17722766/01-Taller-Asistente-virtual.pdf)
+
+Caso de estudio: Construcción de un Asistente Virtual Inteligente
+[02-Taller-Asistente-virtual.pdf](https://github.com/user-attachments/files/17722767/02-Taller-Asistente-virtual.pdf)
 
