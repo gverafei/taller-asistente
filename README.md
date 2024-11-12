@@ -29,7 +29,7 @@ Practica 1: Instalación del ambiente de desarrollo.
 [Practica_1.pdf](https://github.com/user-attachments/files/17694393/Practica_1.pdf)
 
 Practica 2: Grabar la voz del usuario y convertirla a texto.
-[Practica_2.pdf](https://github.com/user-attachments/files/17710769/Practica_2.pdf)
+[Practica_2.pdf](https://github.com/user-attachments/files/17711415/Practica_2.pdf)
 
 Practica 3: Creación de la interfaz de la aplicación con Flask.
 [Practica_3.pdf](https://github.com/user-attachments/files/17710865/Practica_3.pdf)
